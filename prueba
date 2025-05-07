@@ -1,3 +1,7 @@
 prinnt("Hola Mundo")
 
 print("Hola Matias")
+
+CREATE TABLE usuario (
+
+
